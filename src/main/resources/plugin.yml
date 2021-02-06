@@ -1,0 +1,16 @@
+name: StaffTools
+version: 1.0
+author: atyre
+main: me.atyre.stafftools.StaffTools
+commands:
+  adminchat:
+    aliases: ac
+    description: Chat for admins.
+  report:
+    description: Reports a player.
+  request:
+    aliases: helpop
+    description: Sends a message to online staff members.
+  staffchat:
+    aliases: sc
+    description: Chat for staff.
